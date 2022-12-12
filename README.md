@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KShilina
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Web Development Projects with other developers.
 - 📫 How to reach me @ yatakshilina@gmail.com
 
