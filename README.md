@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @KShilina
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning QA Automation and Full Stack development.
-- 💞️ I’m looking to collaborate on Web Development Projects with other developers.
-- 📫 How to reach me @ yatakshilina@gmail.com
+- 👋 Hi, I'm Ekaterina Shilina
+
+👀 I'm passionate about Web Development.
+🌱 Currently, I'm expanding my skills in Full Stack Web development.
+💞️ I'm eager to collaborate on exciting Web Development Projects with fellow developers.
+📫 You can reach me at ekatherina.shilina@gmail.com. Let's connect and create amazing things together!
 
 <!---
 KShilina/KShilina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
