@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ekaterina Shilina
 
 👀 I'm passionate about Web Development.
-🌱 Currently, I'm expanding my skills in Full Stack Web development.
+🌱 Currently, I'm working at Worksimply as a Junior Full Stack Web developer.
 💞️ I'm eager to collaborate on exciting Web Development Projects with fellow developers.
 📫 You can reach me at ekatherina.shilina@gmail.com. Let's connect and create amazing things together!
 
